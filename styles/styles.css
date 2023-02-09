@@ -126,3 +126,11 @@
     font-weight: 600;
     font-size: 20px; 
 }
+/* ===========================Footer Styles =======================*/
+
+.social-media-icon{
+    display: flex;
+    justify-content: space-around;
+    text-decoration: none;
+}
+
