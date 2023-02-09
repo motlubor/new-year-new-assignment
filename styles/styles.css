@@ -81,3 +81,17 @@
     margin-top: 15px;
     margin-bottom: 20px;
 }
+
+/* ====================Plan Section Styles ======================*/
+
+.plan{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.plan-name{
+    width: 218px;
+    height: 197px;
+    
+}
