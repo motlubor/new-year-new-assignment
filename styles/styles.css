@@ -96,8 +96,20 @@
     
 }
 
+/* ==================Blend two picture=============== */
 .blend{
     background-image: url("../images/watch.png");
     background-repeat: no-repeat;
-       
+           
+}
+
+.mindset{
+    display: flex;
+    position: relative;
+    justify-content: center;
+}
+.be-positive{
+    position: absolute;
+    margin-left: -45em;
+    margin-top: 5em;
 }
