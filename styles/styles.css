@@ -1,0 +1,23 @@
+
+*{
+    margin: 0;
+}
+
+.header{
+    display: flex;
+    text-align: center;
+    position:absolute;
+}
+
+
+.header-image img{
+    transform: scaleX(-1);
+    width: 1600px;
+    height: 800px;
+    
+
+}
+.header-title h1{
+    
+
+}
