@@ -47,7 +47,8 @@
     margin-top: 32px;    
     color: aliceblue;
     font-weight: 600;
-    font-size: 20px;    }
+    font-size: 20px; 
+   }
 
     .normal-text{
         margin-top: 40px;
@@ -112,4 +113,16 @@
     position: absolute;
     margin-left: -45em;
     margin-top: 5em;
+}
+.call-now{
+    width: 164px;
+    height: 60px;
+    background-color: aliceblue;
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 32px;    
+    color: #F15B22;
+    font-weight: 600;
+    font-size: 20px; 
 }
